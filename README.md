@@ -1,1 +1,2 @@
 # odin-recipes
+This basic recipes project is a simple static website with multiple pages containing different recipes. This project has allowed me to demonstrate my ability to use relative links between html files on my machine, insert images using absolute links, and use ordered and unordered lists.
